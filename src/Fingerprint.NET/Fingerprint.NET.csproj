@@ -5,13 +5,13 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<PackageId>Fingerprint.NET</PackageId>
+		<PackageId>SmartLabs.Fingerprint.NET</PackageId>
 		<!--<PackageIconUrl></PackageIconUrl>-->
 		<Authors>Emmanuel O. Adebiyi</Authors>
 		<Company>SmartLabs</Company>
 		<RepositoryUrl>https://github.com/AmSmart/Fingerprint.NET</RepositoryUrl>
 		<PackageProjectUrl>https://github.com/AmSmart/Fingerprint.NET</PackageProjectUrl>
-		<PackageTags>Fingerprint IoT UART</PackageTags>
+		<PackageTags>Fingerprint IoT UART Zhiantech Adafruit</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<Description>A library to help you integrate Zhiantech Fngerprint sensors with .NET over a serial port connection</Description>
 		<Summary>A library to help you integrate Zhiantech Fngerprint sensors with .NET over a serial port connection</Summary>
