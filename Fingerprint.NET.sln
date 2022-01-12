@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fingerprint.NET", "src\Fingerprint.NET\Fingerprint.NET.csproj", "{1658464B-0881-4C64-B84F-9E068297C588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fingerprint.NET.ConsoleSample", "samples\Fingerprint.NET.ConsoleSample\Fingerprint.NET.ConsoleSample.csproj", "{0A4DEB07-FE03-41B6-826D-045C90C06E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1658464B-0881-4C64-B84F-9E068297C588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1658464B-0881-4C64-B84F-9E068297C588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1658464B-0881-4C64-B84F-9E068297C588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1658464B-0881-4C64-B84F-9E068297C588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4DEB07-FE03-41B6-826D-045C90C06E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4DEB07-FE03-41B6-826D-045C90C06E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4DEB07-FE03-41B6-826D-045C90C06E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4DEB07-FE03-41B6-826D-045C90C06E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADF034F3-E284-4882-8524-9BE9887F7012}
+	EndGlobalSection
+EndGlobal
